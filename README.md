@@ -1,2 +1,20 @@
-# bank-accounts
-Backend model + logic with simplified access layer representing subset of Banking functionality. Fully tested project developed for OOP course (winter 2019-2020) using advanced language features and design patterns.
+# Bank Accounts - Model
+
+|            |                   	  |
+| ---------- |-------------		      |
+| Term:      | III      	 	        |
+| Classes:   | Monday 12:30         |
+| Languages: | C++                  |
+| Lecturer:  | dr Marcin Kacprowicz |
+| Type:      | obligatory           |
+| ECTS:      | VI                   |
+
+## Tools:
+
+* JetBrains CLion 2019.*
+* Modelio (UML diagrams)
+* SVN (during course)
+
+## Code:
+* C++ 17
+* Boost Library
